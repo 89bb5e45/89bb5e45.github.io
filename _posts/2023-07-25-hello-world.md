@@ -62,38 +62,15 @@ Widespread masking threatens the usefulness of an individual's social experience
 
 The third eye gazes inward, yes. But it is also an instrument of destruction. In the Hindu tradition, Shiva's third eye opens to eradicate evil from the universe. Likewise, the third eye as a human symbol might propose to uproot those things about ourselves that are not desirable and force us instead to reckon with the subjective self whether we want to or not. Thus, it is sort of an "anti-mask", as we train it inward just as we might display it outward; we employ it as a way of realization, rather than as a form of obfuscation. My favorite illustration of the third eye serving this function is Frank Herbert's Dune, where characters invoke the image to overcome paroxysms of fear.<d-footnote>Herbert (1965).</d-footnote>
 
-<div class="poem">
-    <div class="stanza">
-        <div class="line">
-            <div class="original"></div>
-            <div class="translation">I must not fear. Fear is the mind-killer.</div>
-        </div>
-        <div class="line">
-            <div class="original"></div>
-            <div class="translation">Fear is the little-death that brings total obliteration.</div>
-        </div>
-        <div class="line">
-            <div class="original"></div>
-            <div class="translation">I will face my fear.</div>
-        </div>
-        <div class="line">
-            <div class="original"></div>
-            <div class="translation">I will permit it to pass over me and through me.</div>
-        </div>
-        <div class="line">
-            <div class="original"></div>
-            <div class="translation">And when it has gone past <strong>I will turn the inner eye to see its path</strong>.</div>
-        </div>
-        <div class="line">
-            <div class="original"></div>
-            <div class="translation">Where the fear has gone there will be nothing.</div>
-        </div>
-        <div class="line">
-            <div class="original"></div>
-            <div class="translation">Only I will remain.</div>
-        </div>
-    </div>
-</div>
+| Original                                                                 |
+| :----------------------------------------------------------------------- |
+| I must not fear. Fear is the mind-killer.                                |
+| Fear is the little-death that brings total obliteration.                 |
+| I will face my fear.                                                     |
+| I will permit it to pass over me and through me.                         |
+| And when it has gone past **I will turn the inner eye to see its path**. |
+| Where the fear has gone there will be nothing.                           |
+| Only I will remain.                                                      |
 
 #### III. Flow
 
@@ -105,26 +82,12 @@ Take, for example, my decision to start this blog. In many ways, doing so is ant
 
 I am somebody who primarily views the world through the lens of interfaces. Facilitating interconnectivity between things that are understood to be different-in-kind is a deeply pleasing process that is, to me, its own reward. The concept of an interface is something we typically apply to man-made systems, instruments, and ideas; but this concept is useful in other areas of life. What I appreciated about the moment I spent in the Beaver River was the sparks of interconnectivity I felt between myself and the world around me, and it was my attention to the world around me that fastened me to it in that moment. Throughout my life, I have often drunk when I was thirsty and clothed myself when I was cold but, in the theme of Wallace's essay, this was a rare moment where I could recognize that it was indeed water that I was swimming in. I sat in the Beaver River for awhile before, standing up, I felt a warm breeze wrap itself around my body, recalling a verse from high school English. <d-footnote>Chaucer (c. 1400). 1.1.</d-footnote>
 
-<div class="poem">
-    <div class="stanza">
-        <div class="line">
-            <div class="original">Whan Zephirus eek with his sweete breeth</div>
-            <div class="translation">When the West Wind also with its sweet breath</div>
-        </div>
-        <div class="line">
-            <div class="original">Inspired hath in every holt and heeth</div>
-            <div class="translation">In every wood and field has breathed life into</div>
-        </div>
-        <div class="line">
-            <div class="original">The tendre croppes, and the yonge sonne</div>
-            <div class="translation">The tender new leaves, and the young sun</div>
-        </div>
-        <div class="line">
-            <div class="original">Hath in the Ram his half cours yronne,</div>
-            <div class="translation">Has run half its course in Aries</div>
-        </div>
-    </div>
-</div>
+| Original                                 | Translation                                    |
+| :--------------------------------------- | :--------------------------------------------- |
+| Whan Zephirus eek with his sweete breeth | When the West Wind also with its sweet breath  |
+| Inspired hath in every holt and heeth    | In every wood and field has breathed life into |
+| The tendre croppes, and the yonge sonne  | The tender new leaves, and the young sun       |
+| Hath in the Ram his half cours yronne,   | Has run half its course in Aries               |
 
 So, I've decided to call this blog [`zephyrus`](https://doi.org/10.1163/1574-9347_bnp_e12216400), something I am doing 'for its own sake' where I can lay down my masks and reflect upon & celebrate the human experience through intellectual lenses available to me. I hope that, like a summer breeze, these musings may be a source of comfort to you as they are to me.
 

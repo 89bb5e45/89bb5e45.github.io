@@ -44,7 +44,6 @@ repo_trophies:
 
 rss_icon: true
 
-
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -89,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: zephyrus # blog_name will be displayed in your blog page
-blog_description: reflections, notes, and research updates
+blog_description: reflections, field notes, and research updates
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -266,7 +265,8 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["meta", "pedagogy", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["essays"] # these categories will be displayed on the front page of your blog
+# display_categories: ['reflections', 'field-notes', 'research-updates'] # these categories will be displayed on the front page of your blog
+display_categories: ["reflections", "field-notes"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

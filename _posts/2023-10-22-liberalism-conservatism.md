@@ -4,7 +4,7 @@ title: modeling a horse race
 date: 2023-10-22
 description: abstract approaches to liberalism and conservatism
 tags: pedagogy
-categories: essays
+categories: field-notes
 related_posts: false
 giscus_comments: true
 authors:

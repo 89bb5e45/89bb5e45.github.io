@@ -4,7 +4,7 @@ title: a brief 'hello world'
 date: 2023-07-25
 description: let's get this party started
 tags: meta
-categories: essays
+categories: reflections
 related_posts: false
 giscus_comments: true
 authors:

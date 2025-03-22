@@ -4,7 +4,7 @@ title: how i take notes
 date: 2025-03-12
 description: and why you should care
 tags: pedagogy code
-categories: essays
+categories: field-notes
 related_posts: false
 giscus_comments: true
 authors:

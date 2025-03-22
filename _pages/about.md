@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://criminaljustice.wisc.edu/'>Center for Law, Society, and Justice</a>, University of Wisconsin. 1180 Observatory Dr, Madison, WI 53706
+subtitle: <a href='https://criminaljustice.wisc.edu/'>Center for Law, Society, and Justice</a>
 
 profile:
   align: right

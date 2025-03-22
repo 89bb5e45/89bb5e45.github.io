@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: I maintain and contribute to several python packages and other hobby projects. 
+description: I maintain and contribute to several python packages and other hobby projects.
 nav: true
 nav_order: 4
 ---

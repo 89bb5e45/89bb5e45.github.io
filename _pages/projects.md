@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I manage a handful of long-run projects that I will share progress on here.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [technology, classics, social sciences]
 horizontal: false
 ---
 

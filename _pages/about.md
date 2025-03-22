@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a classicist, social scientist, and software engineer with interests in crisis, caste, and institutions. I've taught a variety of classes in political science and legal studiea, and have an additional, narrow-ish academic focus on the historiography and political culture of the Roman late-republic, especially as these topics relate to discourses, narratives, and intellectual traditions on the core ideas of that period. I am a RedHat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. All views are my own.
+I am a classicist, social scientist, and software engineer with interests in crisis, caste, and institutions. I've taught a variety of classes in political science and legal studies, and have an additional, narrow-ish academic focus on the historiography and political culture of the Roman late-republic, especially as these topics relate to discourses, narratives, and intellectual traditions on the core ideas of that period. I am a RedHat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. All views are my own.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

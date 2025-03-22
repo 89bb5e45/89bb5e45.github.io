@@ -197,7 +197,6 @@ exclude:
   - _pages/books.md
   - _pages/cv.md
   - _pages/dropdown.md
-  - _pages/news.md
   - _pages/profiles.md
   - _pages/publications.md
 

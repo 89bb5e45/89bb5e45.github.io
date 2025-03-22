@@ -120,6 +120,15 @@ Represented in the same manner as the earlier concepts, it might look like two c
 
 In any event, these musings constitute a slightly cleaned up set of working notes that have evolved over the first few weeks of the academic term. Thank you for reading, and hopefully the effort has been rewarding and enjoyable.
 
+#### 🎧 Listen to This Page
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include audio.liquid path="assets/audio/2023-10-22-liberalism-conservatism.mp3" controls=true %}
+    </div>
+</div>
+To make this content more accessible and easier to engage with, I’ve included an audio version generated using AI voice technology from [ElevenLabs](https://www.elevenlabs.io/). The narration is based on the original text but may include minor adjustments for clarity - particularly in how code, links, figures, footnotes, and references are rendered. While the voice is AI-generated, the underlying writing remains entirely my own. You can read more about ElevenLabs’ attribution policy [here](https://help.elevenlabs.io/hc/en-us/articles/13313564601361-Can-I-publish-the-content-I-generate-on-the-platform).
+
 <div style="display: none;">
     <d-cite key="oakeshott1991"></d-cite>
     <d-cite key="fukuyama1992end"></d-cite>

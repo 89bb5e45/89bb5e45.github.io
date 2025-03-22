@@ -126,7 +126,7 @@ I am somebody who primarily views the world through the lens of interfaces. Faci
     </div>
 </div>
 
-So, I've decided to call this blog [`zephyrus`](https://referenceworks.brillonline.com/entries/brill-s-new-pauly/zephyrus-e12216400), something I am doing 'for its own sake' where I can lay down my masks and reflect upon & celebrate the human experience through intellectual lenses available to me. I hope that, like a summer breeze, these musings may be a source of comfort to you as they are to me.
+So, I've decided to call this blog [`zephyrus`](https://doi.org/10.1163/1574-9347_bnp_e12216400), something I am doing 'for its own sake' where I can lay down my masks and reflect upon & celebrate the human experience through intellectual lenses available to me. I hope that, like a summer breeze, these musings may be a source of comfort to you as they are to me.
 
 <div style="display: none;">
     <d-cite key="oakeshott1991"></d-cite>

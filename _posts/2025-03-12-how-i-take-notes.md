@@ -67,7 +67,7 @@ Tired of this approach, she downloads Obsidian and creates a set of folders to c
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2025-03-12-obs_left_nav.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2025-03-12-obs_left_nav.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -80,7 +80,7 @@ Just as soon as Jade has created this set of folders into which to sort her rele
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2025-03-12-obs_example_note.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2025-03-12-obs_example_note.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -93,7 +93,7 @@ Jade likes the idea of being able to read class slides and readings directly alo
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2025-03-12-obs_pdf_embedding.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2025-03-12-obs_pdf_embedding.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -106,7 +106,7 @@ Around exam time, Jade can use an efficient keyword search for topics to track d
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2025-03-12-obs_graph_view.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2025-03-12-obs_graph_view.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -119,7 +119,7 @@ Jade will sometimes come up with a novel idea that she wants to follow up on lat
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2025-03-12-obs_idea_tag.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2025-03-12-obs_idea_tag.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -22,9 +22,11 @@ toc:
 
 A few weeks ago, I was very grateful to find myself backpacking on the [Superior Hiking Trail](https://superiorhiking.org/trail-section/silver-bay-to-caribou-river-wayside/) and had the chance to relax with my group at a campground off the Beaver River, in an area north of Two Harbors, MN. I spent some time submerged in the water and attuning myself to the tranquil sounds of birdsong, the rustling of leaves in the wind, and the water lapping against nearby stones. In the overwhelming synchronicity of the moment, a few thoughts crossed my mind that I hope you'll permit me to share here.
 
+
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-07-25-beaver-creek.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-07-25-beaver-creek.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -53,7 +55,7 @@ Widespread masking threatens the usefulness of an individual's social experience
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-07-25-tika.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-07-25-tika.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

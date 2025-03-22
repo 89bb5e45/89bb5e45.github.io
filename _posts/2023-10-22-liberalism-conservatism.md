@@ -36,7 +36,7 @@ The first problem I've experienced in teaching liberalism and conservatism is, p
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-22-horse_race.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-10-22-horse_race.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -52,7 +52,7 @@ The second teaching problem I've experienced is why the two ideas seem sometimes
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0" style="height: 50%;">
-        {% include figure.html path="assets/img/2023-10-22-caduceus.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-10-22-caduceus.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -63,7 +63,7 @@ So, in visualizing this idea in a manner similar to the first, we might plot lib
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-22-intertwined_lines.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-10-22-intertwined_lines.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -84,7 +84,7 @@ But what are these liminal controversies? I think there are probably too many to
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-22-diverging_lines.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-10-22-diverging_lines.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -101,7 +101,7 @@ I think this idea is nicely modeled by the tail eater (Attic: ὁ οὐροβό�
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-22-ouroboros.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-10-22-ouroboros.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -112,7 +112,7 @@ Represented in the same manner as the earlier concepts, it might look like two c
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-22-circular_lines.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-10-22-circular_lines.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

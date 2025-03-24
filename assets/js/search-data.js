@@ -72,7 +72,7 @@ ninja.data = [{
       },
     },{id: "projects-roman-civil-war-discourses",
           title: 'Roman Civil War Discourses',
-          description: "Exploring the development of discourses on Sulla, Caesar, cruelty, and libertas during the Roman late-republic.",
+          description: "Exploring the development of discourses on Sulla, Caesar, cruelty, and liberty during the Roman late-republic.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/discourses/";
             },},{id: "projects-law-and-the-humanities",
@@ -85,9 +85,9 @@ ninja.data = [{
           description: "Abstract and flexible open-source form management software.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/libreforms/";
-            },},{id: "projects-plutarch-39-s-roman-civil-war-lives",
-          title: 'Plutarch&amp;#39;s Roman Civil War Lives',
-          description: "Analyzing Plutarch&#39;s Roman &#39;Civil War&#39; Lives, his sources, and Roman political biography as a genre.",
+            },},{id: "projects-plutarch-and-biography",
+          title: 'Plutarch and Biography',
+          description: "Analyzing Plutarch&#39;s Roman &#39;Civil War&#39; Lives, his sources, and his relationship with Roman political biography as a genre.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/plutarch/";
             },},{id: "projects-technical-standards",

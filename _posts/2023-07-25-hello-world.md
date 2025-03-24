@@ -18,7 +18,6 @@ toc:
   - name: II. Masks
   - name: III. Flow
   - name: IV. Interfaces
-  - name: 🎧 Listen to This Page
 ---
 
 A few weeks ago, I was very grateful to find myself backpacking on the [Superior Hiking Trail](https://superiorhiking.org/trail-section/silver-bay-to-caribou-river-wayside/) and had the chance to relax with my group at a campground off the Beaver River, in an area north of Two Harbors, MN. I spent some time sitting halfway in the water and situating myself to the tranquil sounds of birdsong, the rustling of leaves in the wind, and the rapids flowing against nearby rocks. In the overwhelming synchronicity of the moment, a few thoughts crossed my mind that I hope you'll permit me to share here.
@@ -31,6 +30,8 @@ A few weeks ago, I was very grateful to find myself backpacking on the [Superior
 <div class="caption">
     Beaver River (source: author)
 </div>
+
+---
 
 #### I. Objects
 
@@ -45,6 +46,8 @@ In its ephemerality, an object resembles the baited breath of the human life tha
 For some reason, this makes me think of C.G. Jung's writings on typology - especially what he referred to as the extroverted thinking type. On this, Jung stated that "the extroverted thinking type will, by definition, be a man whose constant endeavor.... is to make all his activities dependent on intellectual conclusions, which in the last resort are always oriented by objective data, whether these be external facts or generally accepted ideas." <d-footnote>Jung (1921). ¶ 585.</d-footnote> Modernity is shaped in a manner favoring this kind of thinking, and it rewards extroverted thinkers with plenty of objects, real and figurative, through which to engage with the world.
 
 At the same time, the structure of our society seems to have deprived those who do not think in this way of proportionately meaningful symbols through which to engage with themselves and others. Here, the introverted types - especially the intuitive and feeling types - are useful to bring into the conversation because this category describes those to whom subjective images provide much more meaning, and to whom the strictures of every day social life might sometimes seem, at best, superfluous and, at worst, grating.<d-footnote>Eg. Ibid. ¶ 638, 642. On this, Jung writes that "introverted feeling is conditioned subjectively and is only secondarily concerned with the object," while primarily concerning itself with "deeply felt, unconscious images."</d-footnote> I think that objects as I have described them are products of social life, and are generally lesser in their symbolic value as a result of their ready availability. There is further analogy to be made on the relationship between objects, decadence, and nature - but this probably warrants a separate discussion.
+
+---
 
 #### II. Masks
 
@@ -73,11 +76,15 @@ The third eye gazes can see through barriers, yes. But it is also an instrument 
 | Where the fear has gone there will be nothing.                           |
 | Only I will remain.                                                      |
 
+---
+
 #### III. Flow
 
 Introspection in general can be a troubling business because it forces us to confront certain aspects of ourselves about which we are least comfortable and have hidden away from the gaze of others. But to build a life that is fulfilling, we must sometimes endure discomfort. Some people reject, rebel, or run away from themselves (through, for example, drug use or vapid consumerism) or from society (like a hermit who goes to live in the woods). But there may be a third option in the cultivation of flow, by which I mean the feeling of wellness and satisfaction that we experience through total, active involvement of the self with the world around it. <d-footnote>Csikszentmihalyi (1997). 71.</d-footnote> Flow is interesting to me because it is something that allows us to immerse ourselves in society's activities without alienating us from the self. The chief accomplishment of someone who reaches flow quite often, according to Mihaly Csikszentmihalyi, is the "Autotelic Personality," which refers to one who enjoys their activities for their own sake, rather than for the material benefits they might bestow. This presents a powerful idea for someone who agrees with my earlier descriptive claims regarding how society's relationship with objects and masks has changed. The autotelic personality represents one that is unaffected to these changes without necessarily needing to resist them since, to resist them, they would need to necessarily recede in certain important ways from social life. Indeed, in many important ways the autotelic personality represents one that is certainly more selective in how it chooses to direct attention, and perhaps more effective at tuning out noise while focusing on what it finds to be most important.
 
 Take, for example, my decision to start this blog. In many ways, doing so is antithetical to my [midwest-nice](https://www.urbandictionary.com/define.php?term=Midwest%20Nice) outlook toward life, which entails, amongst other things, an appreciation of humility in myself and others. Something about writing about myself or, even worse, presuming others might want to read what I write strikes me as particularly self-indulgent and inconsistent with my worldview. And yet, here I am, and here you are. At the risk sounding somewhat attenuated, there's an essay that feels relevant called "This is Water" by David Foster Wallace - well rehearsed across American college campuses at this point, but nonetheless useful to us here - where he recounts a story about a religious man and an atheist debating the existence of God. The atheist describes being caught in a snowstorm a few weeks earlier and, despite his disbelief, praying to God for help. The religious man is heartened - surely the atheist’s survival is proof that God intervened. But the atheist dismisses the idea, crediting a few passers-by who happened to pull him from the snow.d-footnote>Wallace (2009).</d-footnote> Wallace highlights how both men mapped their subjective beliefs onto the atheist's life-or-death experience, without necessarily directing their attention toward, or cultivating any manner of consciousness about, the other's perspective. Wallace thought of this as being a problem of compassion, which I certainly agree with, but I think it is also a problem of attention. Preventing situations like these is exactly the social function that experiences like flow can serve. By paying closer attention and taking interest in the world around us, we can, at the very least, come to understand the worldviews of others instead of being locked behind the limiting bars of our own. In the very best of cases, this can increase our stakes in social life and increase our trust in one another.
+
+---
 
 #### IV. Interfaces
 
@@ -92,7 +99,9 @@ I am somebody who enjoys thinking about the world through the lens of interfaces
 
 So, I've decided to call this blog [`zephyrus`](https://doi.org/10.1163/1574-9347_bnp_e12216400), something I am doing 'for its own sake' where I can lay down my masks and reflect upon & celebrate the human experience through intellectual lenses available to me. I hope that, like the warm summer breeze, these musings may be a source of comfort to you as they are to me.
 
-#### 🎧 Listen to This Page
+---
+
+#### Listen to This Page
 
 <div class="row mt-3">
     <div class="col-12 mt-3 mt-md-0">

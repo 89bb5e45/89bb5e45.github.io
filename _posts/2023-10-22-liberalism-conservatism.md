@@ -20,7 +20,7 @@ toc:
   - name: IV. The Ouroboros
   - name: V. The Retracting Slinky
   - name: VI. Closing Remarks
-
+  - name: 🎧 Listen to This Page
 ---
 
 I have the distinct pleasure of teaching a course this semester on how liberalism and conservatism shaped American history. Part of the difficulty of teaching this subject is in helping students understand how and why the underlying concepts change over time. This presents an interesting "teaching methods" challenge that I've contemplated throughout the semester and struggled to find a good solution for.
@@ -147,9 +147,7 @@ These musings constitute a slightly cleaned up set of working notes that have ev
 
 #### 🎧 Listen to This Page
 
-<div class="row mt-3">
-    {% include audio.liquid path="assets/audio/2023-10-22-liberalism-conservatism.mp3" controls=true %}
-</div>
+{% include audio.liquid path="assets/audio/2023-10-22-liberalism-conservatism.mp3" controls=true %}
 
 To make this content more accessible and easier to engage with, I’ve included an audio version generated using AI voice technology from [ElevenLabs](https://www.elevenlabs.io/). The narration is based on the original text but may include minor adjustments for clarity - particularly in how code, links, figures, footnotes, and references are rendered. While the voice is AI-generated, the underlying writing remains entirely my own. You can read more about ElevenLabs’ attribution policy [here](https://help.elevenlabs.io/hc/en-us/articles/13313564601361-Can-I-publish-the-content-I-generate-on-the-platform).
 

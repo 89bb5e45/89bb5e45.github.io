@@ -18,6 +18,7 @@ toc:
   - name: II. Masks
   - name: III. Flow
   - name: IV. Interfaces
+  - name: 🎧 Listen to This Page
 ---
 
 A few weeks ago, I was very grateful to find myself backpacking on the [Superior Hiking Trail](https://superiorhiking.org/trail-section/silver-bay-to-caribou-river-wayside/) and had the chance to relax with my group at a campground off the Beaver River, in an area north of Two Harbors, MN. I spent some time sitting halfway in the water and situating myself to the tranquil sounds of birdsong, the rustling of leaves in the wind, and the rapids flowing against nearby rocks. In the overwhelming synchronicity of the moment, a few thoughts crossed my mind that I hope you'll permit me to share here.
@@ -93,9 +94,8 @@ So, I've decided to call this blog [`zephyrus`](https://doi.org/10.1163/1574-934
 
 #### 🎧 Listen to This Page
 
-<div class="row mt-3">
-    {% include audio.liquid path="assets/audio/2023-07-25-hello-world.mp3" controls=true %}
-</div>
+{% include audio.liquid path="assets/audio/2023-07-25-hello-world.mp3" controls=true %}
+
 To make this content more accessible and easier to engage with, I’ve included an audio version generated using AI voice technology from [ElevenLabs](https://www.elevenlabs.io/). The narration is based on the original text but may include minor adjustments for clarity - particularly in how code, links, figures, footnotes, and references are rendered. While the voice is AI-generated, the underlying writing remains entirely my own. You can read more about ElevenLabs’ attribution policy [here](https://help.elevenlabs.io/hc/en-us/articles/13313564601361-Can-I-publish-the-content-I-generate-on-the-platform).
 
 <div style="display: none;">

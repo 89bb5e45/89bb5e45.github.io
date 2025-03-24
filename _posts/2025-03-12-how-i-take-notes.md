@@ -23,6 +23,7 @@ toc:
       - name: c. when to use dates in your note titles
       - name: d. automate the boring stuff
       - name: e. conclusions, etc
+  - name: 🎧 Listen to This Page
 ---
 
 As a part of the course I currently teach at the University of Wisconsin called Legal Studies 444: Law in Action, I developed a lesson plan on “taking effective notes for law school (and life)” and have taken to giving this lecture to students early in the semester so that they can (hopefully) apply some of its takeaways as the course develops. Beforehand, I ask them to prepare two readings: first, an essay from GULC emeritus professor Robin West on the path to becoming law faculty; second, the introduction to _How to Take Smart Notes_ by Sönke Ahrens. The point is to encourage them to conceptualize their legal education as both a practical and theoretical endeavor, and their notes as serving both a present and future purpose. I’m including the substance of this lecture in the essay below, and follow this up with a deep-dive into how you can organize your notes using the story of a hypothetical second-year law student, Jade Law.
@@ -211,9 +212,8 @@ I won’t expound too greatly on the great successes that Jade finds after law s
 
 #### 🎧 Listen to This Page
 
-<div class="row mt-3">
-    {% include audio.liquid path="assets/audio/2025-03-12-how-i-take-notes.mp3" controls=true %}
-</div>
+{% include audio.liquid path="assets/audio/2025-03-12-how-i-take-notes.mp3" controls=true %}
+
 To make this content more accessible and easier to engage with, I’ve included an audio version generated using AI voice technology from [ElevenLabs](https://www.elevenlabs.io/). The narration is based on the original text but may include minor adjustments for clarity - particularly in how code, links, figures, footnotes, and references are rendered. While the voice is AI-generated, the underlying writing remains entirely my own. You can read more about ElevenLabs’ attribution policy [here](https://help.elevenlabs.io/hc/en-us/articles/13313564601361-Can-I-publish-the-content-I-generate-on-the-platform).
 
 <div style="display: none;">

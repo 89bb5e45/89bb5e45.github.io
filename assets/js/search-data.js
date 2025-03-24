@@ -70,7 +70,10 @@ ninja.data = [{
           window.location.href = "/blog/2023/hello-world/";
         
       },
-    },{id: "projects-roman-civil-war-discourses",
+    },{id: "news-i-m-very-excited-to-share-that-i-ve-decided-to-continue-teaching-at-the-university-of-wisconsin-madison-for-the-2024-25-academic-year",
+          title: 'I’m very excited to share that I’ve decided to continue teaching at the...',
+          description: "",
+          section: "News",},{id: "projects-roman-civil-war-discourses",
           title: 'Roman Civil War Discourses',
           description: "Exploring the development of discourses on Sulla, Caesar, cruelty, and liberty during the Roman late-republic.",
           section: "Projects",handler: () => {

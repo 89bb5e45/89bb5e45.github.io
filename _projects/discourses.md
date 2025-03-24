@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Roman Civil War Discourses
-description: Exploring the development of discourses on Sulla, Caesar, cruelty, and libertas during the Roman late-republic.
+description: Exploring the development of discourses on Sulla, Caesar, cruelty, and liberty during the Roman late-republic.
 # img: assets/img/discourses.jpeg
 importance: 1
 category: classics

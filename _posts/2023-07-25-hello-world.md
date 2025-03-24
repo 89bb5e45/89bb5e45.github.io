@@ -94,7 +94,11 @@ So, I've decided to call this blog [`zephyrus`](https://doi.org/10.1163/1574-934
 
 #### 🎧 Listen to This Page
 
-{% include audio.liquid path="assets/audio/2023-07-25-hello-world.mp3" controls=true %}
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include audio.liquid path="assets/audio/2023-07-25-hello-world.mp3" controls=true %}
+    </div>
+</div>
 
 To make this content more accessible and easier to engage with, I’ve included an audio version generated using AI voice technology from [ElevenLabs](https://www.elevenlabs.io/). The narration is based on the original text but may include minor adjustments for clarity - particularly in how code, links, figures, footnotes, and references are rendered. While the voice is AI-generated, the underlying writing remains entirely my own. You can read more about ElevenLabs’ attribution policy [here](https://help.elevenlabs.io/hc/en-us/articles/13313564601361-Can-I-publish-the-content-I-generate-on-the-platform).
 

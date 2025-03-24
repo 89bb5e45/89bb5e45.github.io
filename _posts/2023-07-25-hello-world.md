@@ -101,14 +101,14 @@ So, I've decided to call this blog [`zephyrus`](https://doi.org/10.1163/1574-934
 To make this content more accessible and easier to engage with, I’ve included an audio version generated using AI voice technology from [ElevenLabs](https://www.elevenlabs.io/). The narration is based on the original text but may include minor adjustments for clarity - particularly in how code, links, figures, footnotes, and references are rendered. While the voice is AI-generated, the underlying writing remains entirely my own. You can read more about ElevenLabs’ attribution policy [here](https://help.elevenlabs.io/hc/en-us/articles/13313564601361-Can-I-publish-the-content-I-generate-on-the-platform).
 
 <div style="display: none;">
-    <d-cite key="oakeshott1991"></d-cite>
-    <d-cite key="fukuyama1992end"></d-cite>
-    <d-cite key="ezban2012trash"></d-cite>
+    <d-cite key="chaucer1400"></d-cite>
     <d-cite key="coles1979bronze"></d-cite>
+    <d-cite key="csikszentmihalyi1997finding"></d-cite>
+    <d-cite key="ezban2012trash"></d-cite>
+    <d-cite key="fukuyama1992end"></d-cite>
+    <d-cite key="herbert1965dune"></d-cite>
     <d-cite key="jung1921psychological"></d-cite>
     <d-cite key="napier1987masks"></d-cite>
-    <d-cite key="csikszentmihalyi1997finding"></d-cite>
-    <d-cite key="herbert1965dune"></d-cite>
-    <d-cite key="chaucer1400"></d-cite>
+    <d-cite key="oakeshott1991"></d-cite>
     <d-cite key="wallace2009"></d-cite>
 </div>
